@@ -1,0 +1,176 @@
+div{
+    border: solid 2px black;
+    
+}
+
+#first {
+    background-color: white;
+    height: 100px;
+    clear: both;
+    overflow: hidden;
+    
+    
+}
+
+#logo {
+    background-color:greenyellow;
+    float: left;
+    width: 300px;
+    height: 150px;
+    font-size: 40px;
+    text-align: center;
+}
+
+#menu {
+    
+    font-size: 25px;
+    float: right;
+    margin: 40px;
+    border: none;
+    
+
+
+}
+
+.bar {
+    font-style: italic;
+    border: solid 2px black;
+    padding-left: 4px;
+    padding-right: 4px;
+    text-decoration: none;
+
+}
+
+
+#serch {
+    
+    
+   
+    padding-left: 620px;
+    padding-top: 20px;
+    border: none;
+
+    
+
+}
+
+#sch {
+    width: 200px;
+}
+
+#second {
+    height: 500px;
+    background-image: url(./2.jpg);
+    background-position: center;
+    background-size: cover;
+    border: none;
+    color: red;
+
+}
+
+#second p{
+    font-size: 25px;
+    color: black;
+}
+
+#second h1{
+    font-size: 45px;
+}
+
+#btn {
+    font-size: 15px;
+    color: rebeccapurple;
+}
+
+#third {
+    text-align: center;
+    border: none;
+
+}
+
+#third p{
+    font-size: 20px;
+    color: red;
+
+}
+
+#img {
+    height: 200px;
+    width: 300px;
+    float: left;
+    
+}
+
+#third h4{
+    text-align: left;
+    font-size: 25px;
+    color: red;
+}
+
+#img1 {
+    height: 150px;
+    padding-right: 890px;
+}
+
+#myservices {
+    text-align: center;
+    border: none;
+    padding: 0 150px;
+
+}
+
+.im {
+    height: 150px;
+    width: 150px;
+}
+
+.innerservices{
+    clear: both;
+    overflow: hidden;
+}
+
+.innerservices div{
+    width: 21.2%;
+    text-align: left;
+    float: left;
+    margin: 20px 50px;
+    padding: 10px 20px;
+}
+
+
+#forth {
+    text-align: center;
+    height: 500px;
+    border: none;
+    clear: both;
+    overflow: hidden;
+
+}
+
+#forth p{
+    color: purple;
+}
+
+
+
+#bx1 {
+    width: 30%;
+    height: 400px;
+    font-size: 35px;
+    float: left;
+    border: none;
+}
+
+#bx2 {
+    width: 30%;
+    height: 400px;
+    font-size: 35px;
+    float: right;
+    
+}
+
+
+
+
+
+
