@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Form</title>
+</head>
+<body bgcolor="yellow">
+    <form action="./first.html" method="get">
+    ><fieldset>
+        <legend>Registration Form</legend>    
+        <label for="">Gender</label>
+        <input type="radio" name="gender" value="male" id=""> male
+        <input type="radio" name="gender" value="female" id=""> female
+        <br>
+        <label for = "">Age</label>
+        <input type = "number">
+        
+        <div>
+            <label for="">hobbies</label>
+            <input type="checkbox" name="hobbies" value="reading" id=""> Reading
+            <input type="checkbox" name="hobbies" value="writing" id=""> Writing
+            <input type="checkbox" name="hobbies" value="singing" id=""> singing
+            <input type="checkbox" name="hobbies" value="dancing" id=""> dancing
+        </div>
+
+        <div>
+            <label for="">Range</label>
+            <input type="range" name="range" min="0" max="50" step="10" id=""> 
+        </div>
+        <div>
+            <input type="button" value="Normal Button" id=""> 
+            <input type="submit" value="Submit Button" id=""> 
+            <input type="reset" value="Reset Button" id=""> 
+        </div>
+        <div>
+            <label for="">datetime</label>
+            <input type="date" name="datetime  id=""> <br><input type="time" name="datetime"  id=""> 
+        </div>
+        <div>
+            <label for="">time</label>
+            <input type="time" name="time"  id=""> 
+        </div>
+        <div>
+            <label for="">month</label>
+            <input type="month" name="month"  id=""> 
+        </div>
+        <div>
+            <label for="">Search</label>
+            <input type = "search">
+            <br>
+            <label for="">url</label>
+            <input type = "button" value="Reset Button">
+        </div>
+        <div>
+            <label for="mcountry">country</label>
+            <select name="country" id="mcountry">
+                <option value="india">India</option>
+                <option value="india1">India1</option>
+                <option value="">India2</option>
+                <option value="india3">India3</option>
+            </select>
+        </div>
+        <div>
+            <label for="mcomment">Mycomment</label>
+            <textarea name="mcomm" id="mcomment" cols="30" rows="10"></textarea>
+        </div>
+
+
+    </form>
+</body>
+</html>

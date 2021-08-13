@@ -1,0 +1,32 @@
+div{
+    background-color: brown;
+    padding: 55px;
+    border: solid 15px black;
+    margin: 35px;
+}
+
+#main{
+    background-color: coral;
+    clear: both;
+    overflow: hidden;
+}
+
+#div1{
+    float: left;
+    width: 250px;
+    height: 250px;
+}
+
+#div2{
+    float: right;
+    width: 250px;
+    height: 250px;
+
+}
+
+#div3{
+    background-color: chartreuse;
+    width: 250px;
+    height: 250px;
+    
+}

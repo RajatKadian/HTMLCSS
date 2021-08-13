@@ -1,0 +1,32 @@
+#section1{
+    background-color: burlywood;
+    height: 240px;
+    
+}
+#sec1logo{
+    background-color: aquamarine;
+    font-size: 200px;
+    width: 500px;
+    margin-left: 50px;
+}
+#sec1nav{
+    background-color: cadetblue;
+    font-size: 15px;
+    width: 500px;
+    height: 30px;
+
+    position: relative;
+    left: 950px;
+    top: -20px;
+}
+.sec1navlink{
+    text-decoration: none;
+    padding-left: 15px;
+    padding-right: 15px;
+    background-color: chocolate;
+
+    border-style: solid;
+    border-width: 2px;
+    border-color: black;
+}
+

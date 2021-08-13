@@ -1,0 +1,207 @@
+#all{
+    background-color: lightgreen;
+    font-size: 30px;
+    height:200px;
+    overflow: hidden;
+    
+}
+
+#fir{
+    font-size: 150px;
+}
+
+#nav{
+    text-decoration: none;
+    font-weight: 600;
+    color: red;
+    width: 450px;
+    position: relative;
+    left:960px;
+    top:-40px; 
+}
+
+.navi{
+    border-style: solid;
+    border-width: 2px;
+    border-color:black;
+
+    padding-left: 20px;
+    padding-right: 20px;
+
+    background-color: darkgoldenrod;
+    text-decoration: none;
+    
+}
+
+/* #pc{
+    height: 1000px;
+    position: relative;
+    left: 970px;
+    background-color: blueviolet;
+    width: 350px;
+}
+#pc img{
+    height: 450px;
+    width: 350px;
+} */
+
+#section2{
+    text-align: center;
+    background-color: coral;
+    background-image: url(./pic.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-blend-mode:overlay;
+    padding: 200px 350px;
+}
+
+#section2 h1{
+    font-size: 45px;
+    font-family: Helvetica, sans-serif;
+} 
+
+#section2 p{
+    font-size: 20px;
+    font-family: Helvetica, sans-serif;
+} 
+
+#section2 button{
+    font-size: 25px;
+    font-family: Helvetica, sans-serif;
+    padding :10px 25px
+} 
+
+#section3{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    background-color:chartreuse;
+    height: 400px;
+}
+
+#sct3{
+    /* background-color: brown; */
+    height: 150px;
+    
+    position: relative;
+    right:600px;
+      
+}
+
+#image{
+    
+    
+   /* background-color: crimson; */
+    height: 150px;
+    width:100px;
+    position: relative;
+    left: 1200px;
+    top : -160px;
+
+}
+
+#image img{
+    height: 200px;
+    width:220px;
+
+}
+
+
+
+#services {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color:#6495ed;
+    height: 550px;
+}
+#services h1{
+    text-align: center;
+}
+#services div{
+    width: 350px;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border: solid 3px black;
+}
+
+#services div img{
+    height: 300px;
+    width: 300px;
+}
+
+#img1{
+    
+    position: relative;
+    left: 540px;
+    top: -420px;
+
+}
+
+#img2{
+    width: 300px;
+    position: relative;
+    left: 1080px;
+    top: -720px;
+
+}
+
+#last{
+
+
+}
+
+#last button{
+    font-size: 20px;
+    padding-left: 5px;
+    padding-left: 5px;
+    font-weight: 700px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+#Contact {
+    text-align: center;
+    font-weight: 700;
+    font-family: fantasy;
+    background-color: chartreuse;
+    color:white;
+    height: 600px;
+    background-image: url(./block.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+#Contact h1{
+    color: black;
+}
+
+#Contact form{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 25px;
+    border: solid 3px;
+    height: 500px;
+    width:600px;
+    background-color: brown;
+
+}
+
+#sideform{
+    
+    font-size: 45px;
+    position: relative;
+    left: 900px;
+    top: -550px;
+    width:600px;
+
+}
+
+#ofc{
+    font-size: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+
+}
+

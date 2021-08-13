@@ -1,0 +1,20 @@
+.fd{
+    color: darkblue;
+}
+
+.fg{
+    font-size: 20px;
+    font-weight: 800;
+}
+
+.ul{
+    text-decoration: underline;
+}
+#last{
+    font-size: 15px;
+    font-weight: 900;
+    text-decoration: line-through;
+    font-style: italic;
+    letter-spacing: 50px;
+    word-spacing: 50px;
+}
